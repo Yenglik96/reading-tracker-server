@@ -1,4 +1,0 @@
-Flask
-flask_cors
-gspread
-oauth2client
