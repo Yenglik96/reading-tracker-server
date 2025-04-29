@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "readingtrackerbot",
+  "private_key_id": "99658a293973d5fccfea54f62c2ecb1f12e1a1ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCHPqvbJ6fpTJJG\nyImq2c/hO3nt7ANgS/Bbs6rL3o9KG0cV33I6ARmmopi3Zv4NDiPTnKODcqqHTJZ3\nxEgvargdxXmv06jFhOqZN8OH+m1WqScd1UpnBNd1FF4dav0kmlPUX91KBeWGQW1Q\njXeRsBre4fc5Fb8HzrwHz0LDmgway2frUTHVZpG6mVfMqQVBHNyeIoePZ0jmXVYU\njrMXCcF42EUYOl8AyHRXfXV3bwG+iI9w209l/5RuzXJNpT73poqCBhvOzGT2H6BY\nKhe9gX9kZ1TD7MkZxNk+kunIJNO/IjjM9nu8sj9ha1WALJw8P2Hxb7zcvbA0hhfg\ng8u22AP9AgMBAAECggEAHXawTvrJMGC/n08R+tgf2yQvcH9RzvlMQFYYd/ihA9aE\neoXm5y8VLQHQPmhgIWz6rh+6Wakx8G7leusWhMn9mXLLi1wTsRA/YajN3sJWbqJE\nRNISNvZNkBKjXEpSItbCO4q09WrqcYCwdXOUYHdaq0LULqoHp4ZI3XSwSVe2mmFz\nyfbKVgPp7HZ5Ug23CALBDxd0qfXSmtCpCOuT4UZt4C0dmrRcrxLj1R3yxXOr0kbb\n678siKd/rZfPa75Q79ihgwrmGS+o1+23fgpgeogP08Iy/CjabpRvTnFIzOcWER0S\nONb77pCnb74v/WgDHJq9MZ7JHDu2kLbt7bgZdHdHawKBgQC8jhp7HVOIFo6p6wNs\nP9UGjemT5snDeGuZ3ltIVLqLHoUQZiZeDmYOv3taaltg0KdwKXpvTlFcs+np2NMJ\n67LYdQwLEuECIkb+KXh8bK0EisW93T6NfDpKRzhcVmKKs103g532qR98i0RvDFSf\nI4w5Jp4QWxEvCcRgfJ4oMIKUPwKBgQC3nvjCV2PAhfBFkkTMo+dFcLSIKLNi1Jl5\n11tAtw/DYb1Gyl/S8qAGZtICdiGi4nIRODUqSoxZsDq8ofBBU3c8HGhOroel7hzw\nweLTNxKHvse0djTn4c3oIHv2F12EfYajLAISq9X/7Uw6GIG1Kr2La6LoUBBYGVQb\nFsvTMPjowwKBgQCTlSZk9q9K9Vz04l3rfIrgdnM8sId71+VgqgoIs0jPWzQLgejF\n9b8sC/Qg8N5VCPwFbnHGbSaByNBtmKiWO0Xg5rxmboBviyTGCu+jc+x4gaYE1gb/\n9xwox1X18CdxKLLtoLcjOXzLnrYRtTUG2mwGz5Moeh8ZEiwC2YdxLYcHQQKBgB5f\nzLSRMi4Rueo4ROs5HbOt7h8r5Giv1GeESVMONSxTybShG3LQscn9TjYcBnpkTQwu\nKRVC2a6oaT705sJXpTyrUlHZqxS2q9DjsbrQvF76HxzqBNxqzN3eKcNOoCiffxsU\n147xH+hC/74IecRXOp2Kg5s8S0fXgMMuZS8dRb9zAoGAD2O3ZXoOU/riIZW/ttwH\navBGNWbHiuIkYUBkw7zWOi2HX5uEF+KQx+r4vqLHT+EAANBzoYq45mSP/7OhuoO/\ncUqAjhA+UyJGnU9rLi9+CH3I3lWgXl5NWdubniIuhq5rXkaSiQO8zZ2pCSJCGO3x\nUVft5jgL6jDVG/eK1Pvrfbw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "reading-tracker-bot-service@readingtrackerbot.iam.gserviceaccount.com",
+  "client_id": "108756680040791273040",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reading-tracker-bot-service%40readingtrackerbot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
